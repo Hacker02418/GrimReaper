@@ -9,19 +9,19 @@ Your Own SmS BomBer in Termux...!!!
 # Installation Steps..
 
 
-* 1) apt update && apt upgrade -y
+*  apt update && apt upgrade -y
 
-* 2) apt install git
+*  apt install git
 
-* 3) git clone https://github.com/nordbearbotdev/GrimReaper/
+*  git clone https://github.com/nordbearbotdev/GrimReaper/
 
-* 4) cd GrimReaper
+*  cd GrimReaper
 
-* 5) chmod +x requirement.sh start.sh
+*  chmod +x requirement.sh start.sh
 
-* 6) bash requirement.sh
+*  bash requirement.sh
 
-* 7) bash start.sh
+*  bash start.sh
 
 # Note :-
 
