@@ -4,7 +4,7 @@ Grim Reaper
 
 # GrimReaper
 
-Your Own SmS BomBer in Termux...!!!
+Your Own SmS BomBer in Termux And Linux ...!!! 
 
 # Installation Steps..
 
